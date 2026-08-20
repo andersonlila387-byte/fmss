@@ -18,7 +18,7 @@ return [
         'charset' => 'utf8mb4',
     ],
     'telegram' => [
-        'bot_token' => '8654398823:AAFy12O-i1p1Qe6HEqcnRzrzFsUFGq-wAOM',
-        'admin_chat_id' => '1958091339',
+        'bot_token' => '',
+        'admin_chat_id' => '',
     ]
 ];
